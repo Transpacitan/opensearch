@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Trans Pacitan</ShortName>
+  <LongName>Pencarian di Trans Pacitan</LongName>
+  <Description>Mencari Travel di Trans Pacitan</Description>
+  <Image type="https://www.transpacitan.com/favicon.ico" height="16" width="16">image/x-icon</Image>
+  <Developer>Trans Pacitan</Developer>
+  <Url type="application/atom+xml" template="https://www.transpacitan.com/search?q={searchTerms}&amp;feed=atom"/>
+  <Url type="application/rss+xml" template="https://www.transpacitan.com/search?q={searchTerms}&amp;feed=rss2"/>
+  <Url type="text/html" template="https://www.transpacitan.com/search?q={searchTerms}" method="GET" />
+  <Url type="application/opensearchdescription+xml" rel="self" template="URL FILE" />
+</OpenSearchDescription>
