@@ -8,5 +8,5 @@
   <Url type="application/atom+xml" template="https://www.transpacitan.com/search?q={searchTerms}&amp;feed=atom"/>
   <Url type="application/rss+xml" template="https://www.transpacitan.com/search?q={searchTerms}&amp;feed=rss2"/>
   <Url type="text/html" template="https://www.transpacitan.com/search?q={searchTerms}" method="GET" />
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://cdn.staticaly.com/gh/Transpacitan/opensearch/edba94c2/opensearch.xml" />
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://cdn.staticaly.com/gh/Transpacitan/opensearch/fb3cd420/opensearch.xml" />
 </OpenSearchDescription>
